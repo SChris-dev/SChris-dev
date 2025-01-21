@@ -17,7 +17,7 @@ An Indonesian **aspiring programmer** driven by passion and curiosity! 🔥💻
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Find me there! 
 
 - 📹 **YouTube:** [@SChrisdev](https://www.youtube.com/@SChrisdev.) 
 - 📸 **Instagram:** [@schris.dev](https://www.instagram.com/schris.dev)  
