@@ -26,4 +26,4 @@ Mostly about **web development**, but I'd like to explore more about programming
 - 📹 **YouTube:** [@SChrisdev](https://www.youtube.com/@SChrisdev) 
 - 📸 **Instagram:** [@schris.dev](https://www.instagram.com/schris.dev)  
 
-✨ Face your errors, and you will thank yourself later. 
+🐥 Build. Break. Fix. Improve. Repeat.  
