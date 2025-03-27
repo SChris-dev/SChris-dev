@@ -1,7 +1,7 @@
 # 👋 Heya, I'm **`SChris`**!  
 
-Or you can just call me **Chris**. 😌
-**2 years** of programming experience.
+Or you can just call me **Chris**. 😌  
+**2 years** of programming experience.  
 Mostly about **web development**, but I'd like to explore more about programming.
 
 ---
@@ -26,4 +26,4 @@ Mostly about **web development**, but I'd like to explore more about programming
 - 📹 **YouTube:** [@SChrisdev](https://www.youtube.com/@SChrisdev) 
 - 📸 **Instagram:** [@schris.dev](https://www.instagram.com/schris.dev)  
 
-✨ Let’s code, create, and innovate together!  
+✨ Face your errors, and you will thank yourself later. 
