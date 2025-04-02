@@ -2,7 +2,8 @@
 
 Or you can just call me **Chris**. 😌  
 **2 years** of programming experience.  
-Mostly about **web development**, but I'd like to explore more about programming. Especially game development.
+Mostly about **web development**, but I'd like to explore more about programming.  
+Especially game development.
 
 ---
 
