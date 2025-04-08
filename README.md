@@ -16,7 +16,6 @@ Especially game development.
   - ⚛️ **ReactJS**.
   - 🎨 **HTML/Vanilla JavaScript Canvas**.
   - 🎮 **GML (Game Maker Language)**.
-  - 🤖 **Godot**.
 - 📂 **Repositories:** Feel free to use!
 - 🌐 **Portofolio:** [Portofolio Website](https://schris.vercel.app)  
 
@@ -27,4 +26,4 @@ Especially game development.
 - 📹 **YouTube:** [@SChrisdev](https://www.youtube.com/@SChrisdev) 
 - 📸 **Instagram:** [@schris.dev](https://www.instagram.com/schris.dev)  
 
-🐥 Build. Break. Fix. Improve. Repeat.  
+You can't undo the past. Only commit to what's next. 🐥  
