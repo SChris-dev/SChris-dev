@@ -14,6 +14,7 @@ I'm a **17-year-old student and programmer** with **2 years of experience**, mos
   - ⚛️ ReactJS
   - 🎨 HTML + Vanilla JS (Canvas API)
   - 🐍 Python (AI)
+  - 📜 TypeScript
 - 📂 I keep my repos open — feel free to explore or fork anything!
 - 🌐 [**My Portfolio Website**](https://schris.vercel.app)
 
@@ -24,4 +25,4 @@ I'm a **17-year-old student and programmer** with **2 years of experience**, mos
 - 📹 [YouTube: @SChrisdev](https://www.youtube.com/@SChrisdev)
 - 📸 [Instagram: @schris.dev](https://www.instagram.com/schris.dev)
 
-> _"You can't undo the past. Only commit to what's next."_ 🐥
+```> "You can't undo the past. Only commit to what's next." 🐥```
