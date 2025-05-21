@@ -13,6 +13,7 @@ I'm a **17-year-old student and programmer** with **2 years of experience**, mos
   - ⚙️ Laravel 11 / 12
   - ⚛️ ReactJS
   - 🎨 HTML + Vanilla JS (Canvas API)
+  - 🤖 GDScript
   - 🐍 Python (AI)
   - 📜 TypeScript
 - 📂 I keep my repos open — feel free to explore or fork anything!
