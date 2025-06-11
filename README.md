@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **`SChris`**
 
 You can just call me **Chris**. 😌  
-I'm a **17-year-old student and programmer** with **2 years of experience**, mostly in **web development** — but I'm diving deeper into the world of tech, especially **game development** and AI.
+I'm a **18-year-old student and programmer** with **2 years of experience**, mostly in **web development** — but I'm diving deeper into the world of tech, especially **game development** and AI.
 
 ---
 
