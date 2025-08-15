@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **`SChris`**
 
 You can just call me **Chris**. 😌  
-I'm a **18-year-old student and programmer** with **2 years of experience**, mostly in **web development** — but I'm diving deeper into the world of tech, especially **game development** and AI.
+I'm a **18-year-old student and programmer** with **2+ years of experience**, mostly in **web development**, but I'm diving deeper into the world of tech, especially **game development** and **AI**.
 
 ---
 
@@ -10,10 +10,10 @@ I'm a **18-year-old student and programmer** with **2 years of experience**, mos
 - 🇮🇩 **Indonesian Programmer**
 - 🎓 Currently studying at [**SMK Taruna Jaya Prawira**](https://smktjp.sch.id/hm/)
 - 🌱 **Exploring:**
-  - ⚙️ Laravel 11 / 12
+  - ⚙️ Laravel 12
   - ⚛️ ReactJS
   - 🎨 HTML + Vanilla JS (Canvas API)
-  - 🤖 GDScript
+  - 🤖 GDScript (Godot 2D & 3D)
   - 🐍 Python (AI)
   - 📜 TypeScript
 - 📂 I keep my repos open — feel free to explore or fork anything!
