@@ -117,29 +117,6 @@
 </div>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=SChris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SChris&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SChris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SChris&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
 ## 🎯 What I'm Up To
 
 ```javascript
@@ -160,40 +137,6 @@ const chris = {
 ```
 
 <br/>
-
-## 🌈 Fun Zone
-
-<div align="center">
-
-### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/SChris/SChris/blob/output/github-contribution-grid-snake-dark.svg)
-
-### 🎵 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-<sub>*Replace YOUR_SPOTIFY_ID with your actual Spotify ID if you want this feature*</sub>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SChris&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-<br/>
-
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/SChris/MathVision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SChris&repo=MathVision&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="MathVision" />
-</a>
-
-</div>
-
-<sub>*Update the repo name above with your actual featured repositories*</sub>
 
 <br/>
 
@@ -228,13 +171,9 @@ Feel free to reach out for:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SChris&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
 <br/>
 
 ### 🎯 *"You can't undo the past. Only commit to what's next."* 🐥
-
-<sub>Made with ❤️ and lots of ☕ by Chris</sub>
 
 </div>
 
