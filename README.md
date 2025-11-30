@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm **SChris**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Game+Dev+Enthusiast+%F0%9F%8E%AE;AI+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Game+Dev+Enthusiast+%F0%9F%8E%AE;AI+Explorer+%F0%9F%A4%96;" alt="Typing SVG" />
 
 ### You can just call me **Chris** 😌
 
